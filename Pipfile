@@ -7,6 +7,7 @@ name = "pypi"
 pygithub = "*"
 
 [dev-packages]
+masonite-cli = "*"
 
 [requires]
 python_version = "3.7"
